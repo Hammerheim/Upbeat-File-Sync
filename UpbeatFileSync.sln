@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{AE56FBFF-5792-47F9-9C36-FD069171872F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ufs", "ufs\ufs.csproj", "{05CCC32A-1F65-4679-B3C6-2CE02189CB69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE56FBFF-5792-47F9-9C36-FD069171872F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE56FBFF-5792-47F9-9C36-FD069171872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE56FBFF-5792-47F9-9C36-FD069171872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE56FBFF-5792-47F9-9C36-FD069171872F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CCC32A-1F65-4679-B3C6-2CE02189CB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CCC32A-1F65-4679-B3C6-2CE02189CB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CCC32A-1F65-4679-B3C6-2CE02189CB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CCC32A-1F65-4679-B3C6-2CE02189CB69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
